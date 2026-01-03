@@ -1,0 +1,24 @@
+# ninja log v5
+385	987	7888129880047799	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	cc35349faf16e658
+989	1355	7888129883441497	C:/Unitymenu/unityLibrary/build/intermediates/cxx/Debug/3d3a1q62/obj/arm64-v8a/libswappywrapper.so	d1a3e6792fe6f3f4
+326	15287	7888130023030150	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	43797cf58c8d5a21
+1	15304	7888130023177255	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	b8a8ce67de38eb2b
+253	15306	7888130023214028	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	e53dd9936a25051
+302	15307	7888130023224313	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	a392f364c63cc277
+239	15336	7888130023533761	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	66f9a51cde92eae
+342	15479	7888130024946919	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	cf6196b0cb42d167
+277	15544	7888130025573444	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	39bbfc761c42ca80
+367	15788	7888130028034229	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	aa53c532dbc4ebf3
+15789	16217	7888130032302126	C:/Unitymenu/unityLibrary/build/intermediates/cxx/Debug/3d3a1q62/obj/arm64-v8a/libgame.so	d8ee998dffa69033
+0	10	0	clean	79257003208661cd
+312	1068	7888157204474918	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	cc35349faf16e658
+1069	2041	7888157213977092	C:/Unitymenu/unityLibrary/build/intermediates/cxx/Debug/3d3a1q62/obj/arm64-v8a/libswappywrapper.so	d1a3e6792fe6f3f4
+289	12201	7888157315831242	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	43797cf58c8d5a21
+217	12215	7888157315972169	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	e53dd9936a25051
+12	12216	7888157315972169	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	b8a8ce67de38eb2b
+300	12218	7888157315998380	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	a392f364c63cc277
+203	12250	7888157316335719	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	66f9a51cde92eae
+275	12360	7888157317397677	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	cf6196b0cb42d167
+234	12391	7888157317739438	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	39bbfc761c42ca80
+263	12621	7888157320036692	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	aa53c532dbc4ebf3
+12621	12949	7888157323331375	C:/Unitymenu/unityLibrary/build/intermediates/cxx/Debug/3d3a1q62/obj/arm64-v8a/libgame.so	d8ee998dffa69033
