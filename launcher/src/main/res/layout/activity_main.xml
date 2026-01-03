@@ -8,8 +8,18 @@
 
     <Button
         android:id="@+id/start_game_button"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/start_game" />
+
+    <Space
+        android:layout_width="0dp"
+        android:layout_height="16dp" />
+
+    <Button
+        android:id="@+id/btn_score_triangle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/score_triangle" />
 
 </LinearLayout>
