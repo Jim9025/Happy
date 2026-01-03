@@ -1,0 +1,13 @@
+# 忽略 Android/Unity 的編譯暫存檔
+.gradle/
+build/
+.cxx/
+local.properties
+.idea/
+
+# 忽略 unityLibrary 裡面的特定暫存檔
+unityLibrary/build/
+unityLibrary/.cxx/
+unityLibrary/obj/
+*.apk
+*.aar

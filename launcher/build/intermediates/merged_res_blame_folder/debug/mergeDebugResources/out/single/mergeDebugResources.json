@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.Ntut.GameMenu.launcher-debug-31:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.Ntut.GameMenu.launcher-main-33:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.Ntut.GameMenu.launcher-debug-31:/mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "com.Ntut.GameMenu.launcher-main-33:/mipmap-anydpi-v26/app_icon.xml"
+    },
+    {
+        "merged": "com.Ntut.GameMenu.launcher-debug-31:/mipmap-mdpi_app_icon.png.flat",
+        "source": "com.Ntut.GameMenu.launcher-main-33:/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "com.Ntut.GameMenu.launcher-debug-31:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.Ntut.GameMenu.launcher-main-33:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.Ntut.GameMenu.launcher-debug-31:/mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "com.Ntut.GameMenu.launcher-main-33:/mipmap-anydpi-v26/app_icon_round.xml"
+    },
+    {
+        "merged": "com.Ntut.GameMenu.launcher-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.Ntut.GameMenu.launcher-main-33:/layout/activity_main.xml"
+    }
+]

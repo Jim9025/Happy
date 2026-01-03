@@ -1,0 +1,10 @@
+R_DEF: Internal format may change without notice
+local
+id btnUnity
+id main
+layout activity_main
+mipmap app_icon
+mipmap app_icon_round
+mipmap ic_launcher_background
+mipmap ic_launcher_foreground
+string app_name

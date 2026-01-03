@@ -1,0 +1,80 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 24 min SDK version: arm64-v8a",
+    "file_": "C:\\reactiongames\\GameMenuExport\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\reactiongames\\GameMenuExport\\unityLibrary\\.cxx\\Debug\\2l4s55r3\\arm64-v8a\\android_gradle_build.json due to:",
+    "file_": "C:\\reactiongames\\GameMenuExport\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "- no fingerprint file, will remove stale configuration folder",
+    "file_": "C:\\reactiongames\\GameMenuExport\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"C:\\\\Program Files\\\\Android\\\\Android Studio\\\\jbr\\\\bin\\\\java\" ^\n  --class-path ^\n  \"C:\\\\Users\\\\陳以諾\\\\.gradle\\\\caches\\\\modules-2\\\\files-2.1\\\\com.google.prefab\\\\cli\\\\2.1.0\\\\aa32fec809c44fa531f01dcfb739b5b3304d3050\\\\cli-2.1.0-all.jar\" ^\n  com.google.prefab.cli.AppKt ^\n  --build-system ^\n  cmake ^\n  --platform ^\n  android ^\n  --abi ^\n  arm64-v8a ^\n  --os-version ^\n  24 ^\n  --stl ^\n  c++_shared ^\n  --ndk-version ^\n  27 ^\n  --output ^\n  \"C:\\\\temp\\\\agp-prefab-staging10522624340526039967\\\\staged-cli-output\" ^\n  \"C:\\\\Users\\\\陳以諾\\\\.gradle\\\\caches\\\\8.13\\\\transforms\\\\1e7cc65d4e74b23bd94dca9ec0ac2eb3\\\\transformed\\\\jetified-games-activity-3.0.5\\\\prefab\" ^\n  \"C:\\\\Users\\\\陳以諾\\\\.gradle\\\\caches\\\\8.13\\\\transforms\\\\6553fed145da0193876e5b502bd35441\\\\transformed\\\\jetified-games-frame-pacing-2.1.2\\\\prefab\"\n",
+    "file_": "C:\\reactiongames\\GameMenuExport\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "Received process result: 1",
+    "file_": "C:\\reactiongames\\GameMenuExport\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed with problem. Exception: com.android.ide.common.process.ProcessException: C++ build system [prefab] failed while executing:\n    @echo off\n    \"C:\\\\Program Files\\\\Android\\\\Android Studio\\\\jbr\\\\bin\\\\java\" ^\n      --class-path ^\n      \"C:\\\\Users\\\\陳以諾\\\\.gradle\\\\caches\\\\modules-2\\\\files-2.1\\\\com.google.prefab\\\\cli\\\\2.1.0\\\\aa32fec809c44fa531f01dcfb739b5b3304d3050\\\\cli-2.1.0-all.jar\" ^\n      com.google.prefab.cli.AppKt ^\n      --build-system ^\n      cmake ^\n      --platform ^\n      android ^\n      --abi ^\n      arm64-v8a ^\n      --os-version ^\n      24 ^\n      --stl ^\n      c++_shared ^\n      --ndk-version ^\n      27 ^\n      --output ^\n      \"C:\\\\temp\\\\agp-prefab-staging10522624340526039967\\\\staged-cli-output\" ^\n      \"C:\\\\Users\\\\陳以諾\\\\.gradle\\\\caches\\\\8.13\\\\transforms\\\\1e7cc65d4e74b23bd94dca9ec0ac2eb3\\\\transformed\\\\jetified-games-activity-3.0.5\\\\prefab\" ^\n      \"C:\\\\Users\\\\陳以諾\\\\.gradle\\\\caches\\\\8.13\\\\transforms\\\\6553fed145da0193876e5b502bd35441\\\\transformed\\\\jetified-games-frame-pacing-2.1.2\\\\prefab\"\n  from C:\\reactiongames\\GameMenuExport\\unityLibrary\n�t�Χ䤣����w�����|�C\r\n�t�Χ䤣����w�����|�C\r\n\u0027le.prefab.cli.AppKt\u0027 ���O�����Υ~���R�O�B�i���檺�{���Χ妸�ɡC\r\n\u0027arm64-v8a\u0027 ���O�����Υ~���R�O�B�i���檺�{���Χ妸�ɡC\r\n�t�Χ䤣����w�����|�C\r\n�䤣��������|�C\r",
+    "file_": "C:\\reactiongames\\GameMenuExport\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  }
+]
