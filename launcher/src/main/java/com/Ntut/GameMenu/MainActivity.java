@@ -14,11 +14,19 @@ public class MainActivity extends Activity {
 
         Button startButton = findViewById(R.id.start_game_button);
         startButton.setOnClickListener(view -> launchUnity());
+
+        Button scoreTriangleButton = findViewById(R.id.btn_score_triangle);
+        scoreTriangleButton.setOnClickListener(view -> openTriangleScores());
     }
 
     private void launchUnity() {
         Intent intent = new Intent(this, com.unity3d.player.UnityPlayerGameActivity.class);
         startActivity(intent);
         finish();
+    }
+
+    private void openTriangleScores() {
+        Intent intent = new Intent(this, ScoreTriangleActivity.class);
+        startActivity(intent);
     }
 }
