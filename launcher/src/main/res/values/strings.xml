@@ -1,13 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">Menu</string>
-  <string name="start_game">Start Game</string>
-  <string name="score_triangle">Score Triangle</string>
-  <string name="score_triangle_title">Triangle Scores</string>
-  <string name="label_balloon">Balloon</string>
-  <string name="label_cube">Cube</string>
-  <string name="label_paddle">Paddle</string>
-  <string name="back">Back</string>
-  <string name="score_placeholder">--</string>
-  <string name="score_format">%1$d</string>
 </resources>
