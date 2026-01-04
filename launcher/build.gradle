@@ -10,7 +10,7 @@ dependencies {
 android {
     namespace "com.Ntut.GameMenu"
     ndkPath "C:/Program Files/Unity/Hub/Editor/6000.3.0f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK"
-    ndkVersion "27.2.12479018"
+    ndkVersion "23.1.7779620"
     compileSdk 36
     buildToolsVersion = "36.0.0"
 
@@ -22,12 +22,12 @@ android {
     defaultConfig {
         applicationId "com.Ntut.GameMenu"
         versionName "1.0"
-        minSdk 35
+        minSdk 25
         targetSdk 36
         versionCode 1
 
         ndk {
-            abiFilters "armeabi-v7a", "arm64-v8a"
+            abiFilters "arm64-v8a"
             debugSymbolLevel "none"
         }
     }
@@ -49,7 +49,7 @@ android {
 
     buildTypes {
         debug {
-            minifyEnabled = true
+            minifyEnabled = false
             proguardFiles getDefaultProguardFile('proguard-android.txt')
             jniDebuggable = true
             signingConfig signingConfigs.debug
@@ -80,7 +80,6 @@ android {
         }
     }
 }
-
 dependencies {
     // 1. 必須連結 unityLibrary 才能認得第 11 行的 UnityPlayerGameActivity
     implementation project(':unityLibrary')
@@ -91,4 +90,5 @@ dependencies {
     implementation 'com.google.android.material:material:1.12.0'
     implementation 'androidx.activity:activity:1.9.3'
     implementation 'androidx.constraintlayout:constraintlayout:2.2.0'
+    implementation 'com.google.code.gson:gson:2.10.1'
 }
