@@ -77,4 +77,9 @@ public class MainActivity extends AppCompatActivity {
         btnExit.setOnClickListener(v -> finish());
 
     }
+
+    private void openTriangleScores() {
+        Intent intent = new Intent(this, ScoreTriangleActivity.class);
+        startActivity(intent);
+    }
 }
